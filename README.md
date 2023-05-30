@@ -1,5 +1,5 @@
 # Flight_Reservation
-Develop a flight reservation system that provides users with the
+Developed a flight reservation system that provides users with the
 ability to search for available flights, select flights, and make
 reservations online.
 
